@@ -1,0 +1,128 @@
+[
+  {
+    "index": 1,
+    "source_file": "01.json",
+    "payload": {
+      "keyword": "sea",
+      "dataFact": "growing",
+      "contextDescription": "This data presents the continuous growth trend of the urban population over the past decade",
+      "defaultPlan": [
+        {
+          "dataField": "population",
+          "subitemId": "1",
+          "subitemName": "wave crest",
+          "channels": [
+            "size"
+          ]
+        },
+        {
+          "dataField": "time",
+          "subitemId": "2",
+          "subitemName": "tide line",
+          "channels": [
+            "position"
+          ]
+        }
+      ]
+    },
+    "prompt1": "Prompt1 (concept sketch, ~30% complete, no axes or grids)\n\nA clean, vector-style conceptual sketch in abstract minimalism. Use the sea as the metaphorical structure to encode the data trend (growth) with a restrained, sketch-like quality. White background, ample negative space, no textures or photographic realism, no axes, ticks, or gridlines.\n\nData mapping notes (embedded in the prompt):\n- dataField population → visual channel: crest height (wave crest size)\n- dataField time → visual channel: tide line position along the shoreline\n\nComposition and visual logic:\n- Foreground: a stylized sea composed of a single, flowing line of gentle waves; the wave crests rise in height progressively from left to right, representing the growth in population (no numbers, just relative increase).\n- Middle ground: a smooth, continuous tide line that runs along the shoreline from left to right; its horizontal position encodes time progression (earlier on the left, later on the right).\n- Layout should emphasize clear foreground/middle/background layering without overlapping clutter; maintain a calm, orderly reading path.\n- Color: a restrained blue palette with flat fills and minimal shading to keep the design crisp and legible.\n- Style anchors: clean vector graphics, abstract minimalism, sketch, balanced composition, subtle metaphorical elegance.\n\nNarrative guidance (for readability):\n- The left-to-right progression encodes time via the tide line position.\n- The increases in crest height from left to right encode population growth.\n- Keep the metaphor transparent but not literal; avoid numeric labels or charts.\n\nOptional minimal captions (very small, near edges, to aid mapping):\n- \"population → crest height\"\n- \"time → tide line position\"\n\nOverall feel:\n- Conceptual, lightweight, and extendable for designers to elaborate later. No photographic texture, no realistic rendering, no numerical overlays. The result should read as a clear, 30% complete visual metaphor where the sea encodes trend through crest size and tide position.",
+    "meta": {
+      "version": "v5",
+      "llm": "gpt-5-nano",
+      "model": "gpt-5-nano",
+      "api_base": "https://api.nbai.art/v1",
+      "description": "基于v5中文指导原则的隐喻生成器 - 隐喻为结构，概念性视觉线稿",
+      "key_features": [
+        "axes-less layout",
+        "conceptual sketch (30% completion)",
+        "metaphor as structure",
+        "trend over exact values",
+        "minimal decoration"
+      ]
+    }
+  },
+  {
+    "index": 2,
+    "source_file": "02.json",
+    "payload": {
+      "keyword": "Sunflower",
+      "dataFact": "growing",
+      "contextDescription": "This data presents the output of Van Gogh's works from 1879 to 1889, with the highest in 1888 and the lowest in 1879",
+      "defaultPlan": [
+        {
+          "dataField": "annual output",
+          "subitemId": "1",
+          "subitemName": "petal count",
+          "channels": [
+            "size"
+          ]
+        },
+        {
+          "dataField": "time",
+          "subitemId": "2",
+          "subitemName": "stem height",
+          "channels": [
+            "position"
+          ]
+        }
+      ]
+    },
+    "prompt1": "Prompt1:\nCreate a concept sketch (approximately 30% complete) in clean vector style with abstract minimalism on a pure white background. Central motif: a sunflower-inspired data sculpture that uses a metaphorical structure to encode a growth trend from 1879 to 1889, referencing Van Gogh’s sunflower series (1879–1889; peak around 1888). No axes, ticks, gridlines, or photographic realism. The sunflower acts as the data vehicle; the stem is the temporal backbone, and each bloom along the stem is a data node.\n\nExplicit data-to-visual mappings (embedded in the metaphor):\n- Data field: annual output → visual channel: petal size. As you move along the stem (time), petals become larger, indicating rising output. Do not render exact values; convey relative growth through petal scale.\n- Data field: time → visual channel: stem height/position. Blooms are placed along the rising stem so their vertical position encodes chronological order (earliest at the base, latest toward the top).\n\nComposition and layout:\n- A single, gently curving stem rises from lower left to upper right, forming the backbone of the piece.\n- Along the stem, place a sequence of stylized sunflowers. The earliest bloom sits toward the base with comparatively smaller petals; subsequent blooms along the stem gradually increase in petal size to reflect the growing trend, with the peak near the top (1888 region) and the overall trajectory implying “growing.”\n- Use flat, vector fills with minimal shading. Color palette limited to sunflower yellows, ochre browns for centers, and muted greens for stems/leaves. Keep the background pure white and textures intentionally absent.\n- Foreground/midground/background relationship: foreground blooms are clean, bold silhouettes; background remains uncluttered to preserve negative space and legibility. Layering should avoid occlusion that obscures the reading path; maintain clear separation between blooms to emphasize sequence.\n- Style anchors: clean vector graphics, abstract minimalism, sketch-like feel, balanced composition, subtle metaphorical elegance.\n\nAnnotations and readability:\n- Include a very subtle, integrated note within the composition to state the mappings in natural language: “annual output → petal size; time → stem height.” The annotation should be barely legible, aligned with the metaphor rather than a traditional caption, preserving the abstract, non-narrative quality.\n- Do not use visible axes, grids, or numeric scales. If alignment cues are needed, rely on a faint, non-distracting cue (e.g., a single faint alignment hint) that does not read as a chart.\n\nOverall objective:\n- The piece should communicate a clear rising trend (growth) purely through the relative sizes of petals and the vertical placement of blooms along the stem, all while maintaining a strict minimalist, non-photographic, non-chart-like aesthetic. The sunflower serves as the structural metaphor encoding the data, leaving ample white space and design latitude for the designer to extend beyond this 30% concept.",
+    "meta": {
+      "version": "v5",
+      "llm": "gpt-5-nano",
+      "model": "gpt-5-nano",
+      "api_base": "https://api.nbai.art/v1",
+      "description": "基于v5中文指导原则的隐喻生成器 - 隐喻为结构，概念性视觉线稿",
+      "key_features": [
+        "axes-less layout",
+        "conceptual sketch (30% completion)",
+        "metaphor as structure",
+        "trend over exact values",
+        "minimal decoration"
+      ]
+    }
+  },
+  {
+    "index": 3,
+    "source_file": "03.json",
+    "payload": {
+      "keyword": "Hourglass",
+      "dataFact": "growing",
+      "contextDescription": "This data presents the process in which human lifespan decreases over time",
+      "defaultPlan": [
+        {
+          "dataField": "remaining days",
+          "subitemId": "1",
+          "subitemName": "sand grains",
+          "channels": [
+            "size"
+          ]
+        },
+        {
+          "dataField": "year",
+          "subitemId": "2",
+          "subitemName": "falling sand stream",
+          "channels": [
+            "position"
+          ]
+        }
+      ]
+    },
+    "prompt1": "Prompt1:\nAn abstract conceptual sketch using an hourglass as the metaphor vehicle to encode lifespan trend. Style: clean vector graphics, abstract minimalism, sketch, balanced composition. Background: pure white with ample negative space. Structure: a central hourglass silhouette with crisp, simple lines, a clearly defined top chamber, a narrow neck, and a bottom chamber. A continuous falling sand stream is shown in profile, connecting top to bottom. Sand grains in the top chamber vary in size along the flow, showing a growing trend. Data mapping (Data Field → Visual Channel): remaining days → sand grain size (grains increase in size, representing growth); year → position of the falling sand stream (the stream’s vertical position indicates progression through years). Visual narrative: as time progresses, grain size grows while the stream's height shifts downward within the hourglass, signaling advancing years and the evolving edge of lifespan. No axes, ticks, or gridlines; if alignment hints are used, they are extremely subtle and do not form a grid. Foreground is the hourglass; midground and background are clean, with soft, understated depth only. Colors: monochrome to desaturated tones; crisp vector edges, minimal shading. Annotations embedded in the metaphor body (one-to-one data mapping): remaining days → grain size; year → falling sand stream position. The composition remains a ~30% complete conceptual sketch, leaving ample space for extension and refinement by designers.",
+    "meta": {
+      "version": "v5",
+      "llm": "gpt-5-nano",
+      "model": "gpt-5-nano",
+      "api_base": "https://api.nbai.art/v1",
+      "description": "基于v5中文指导原则的隐喻生成器 - 隐喻为结构，概念性视觉线稿",
+      "key_features": [
+        "axes-less layout",
+        "conceptual sketch (30% completion)",
+        "metaphor as structure",
+        "trend over exact values",
+        "minimal decoration"
+      ]
+    }
+  }
+]

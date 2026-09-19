@@ -1,0 +1,116 @@
+[
+  {
+    "test_id": 4,
+    "source": "感染疾病人数",
+    "target": "黏黏的口香糖",
+    "prompt": "Realistic chart style depicting the number of disease infections as sticky, varying-sized and colored gumballs, with a textured surface to represent data strings",
+    "local_path": "/Users/anker/Tongji/idvx/idvxProjects/Ideation_code/metaphor_backend/experiment/generate_image/generated_images/metaphor_4_感染疾病人数_20250807_095339.png",
+    "oss_url": "https://metaphor-ai-idvx.oss-cn-beijing.aliyuncs.com/metaphor_4_感染疾病人数_20250807_095339.png",
+    "success": true,
+    "error": "",
+    "dalle_response": {
+      "created": 1754531561,
+      "data": [
+        {
+          "content_filter_results": {
+            "hate": {
+              "filtered": false,
+              "severity": "safe"
+            },
+            "self_harm": {
+              "filtered": false,
+              "severity": "safe"
+            },
+            "sexual": {
+              "filtered": false,
+              "severity": "safe"
+            },
+            "violence": {
+              "filtered": false,
+              "severity": "safe"
+            }
+          },
+          "prompt_filter_results": {
+            "hate": {
+              "filtered": false,
+              "severity": "safe"
+            },
+            "profanity": {
+              "detected": false,
+              "filtered": false
+            },
+            "self_harm": {
+              "filtered": false,
+              "severity": "safe"
+            },
+            "sexual": {
+              "filtered": false,
+              "severity": "safe"
+            },
+            "violence": {
+              "filtered": false,
+              "severity": "safe"
+            }
+          },
+          "revised_prompt": "A realistic chart-style depiction of varying-sized and colored gumballs, each representing the number of disease infections. The gumballs have a textured surface resembling data strings to add visual interest and meaning. The design showcases the gumballs placed on a clean, organized background, with each color representing distinct disease categories and size correlating to infection count. The layout is visually informative yet artistic, with clear labels and segmentation for easy interpretation.",
+          "url": "https://dalleproduse.blob.core.windows.net/private/images/7df0d6e8-1ca6-4e70-b590-8d36fc130c45/generated_00.png?se=2025-08-08T01%3A52%3A51Z&sig=21r5hF6CECSQIWf%2Bm6jxaKjg8AMx7ls44eBj2LcNaJI%3D&ske=2025-08-11T06%3A59%3A02Z&skoid=09ba021e-c417-441c-b203-c81e5dcd7b7f&sks=b&skt=2025-08-04T06%3A59%3A02Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02"
+        }
+      ]
+    }
+  },
+  {
+    "test_id": 5,
+    "source": "光的排放量",
+    "target": "凸起的山的高度",
+    "prompt": "A realistic chart depicting various mountains with heights proportional to the emission levels of light from different sources. Each mountain's position and size on the canvas corresponds to the relative position and intensity of the light source in a real-world scenario.",
+    "local_path": "/Users/anker/Tongji/idvx/idvxProjects/Ideation_code/metaphor_backend/experiment/generate_image/generated_images/metaphor_5_光的排放量_20250807_095401.png",
+    "oss_url": "https://metaphor-ai-idvx.oss-cn-beijing.aliyuncs.com/metaphor_5_光的排放量_20250807_095401.png",
+    "success": true,
+    "error": "",
+    "dalle_response": {
+      "created": 1754531622,
+      "data": [
+        {
+          "content_filter_results": {
+            "hate": {
+              "filtered": false,
+              "severity": "safe"
+            },
+            "self_harm": {
+              "filtered": false,
+              "severity": "safe"
+            },
+            "sexual": {
+              "filtered": false,
+              "severity": "safe"
+            },
+            "violence": {
+              "filtered": false,
+              "severity": "safe"
+            }
+          },
+          "prompt_filter_results": {
+            "hate": {
+              "filtered": false,
+              "severity": "safe"
+            },
+            "self_harm": {
+              "filtered": false,
+              "severity": "safe"
+            },
+            "sexual": {
+              "filtered": false,
+              "severity": "safe"
+            },
+            "violence": {
+              "filtered": false,
+              "severity": "safe"
+            }
+          },
+          "revised_prompt": "A realistic and artistic chart showcasing various mountains, where each mountain height is proportional to light emission levels from different sources. The mountain sizes and positions are designed to match the relative intensity and positional orientation of these sources in a real-world landscape. Each mountain represents a distinct light source with accurate height and location scaling. The scenery features natural detail: lush valleys and skies transitioning across day and night to symbolize varying light intensities. The chart combines realism and informative design, blending elements of nature with data representation.",
+          "url": "https://dalleprodsec.blob.core.windows.net/private/images/eecb4663-ec0f-4cd3-b2c3-a3335442da3b/generated_00.png?se=2025-08-08T01%3A53%3A52Z&sig=42T2SpAQxLfFvhpNEuWxn2g6w6XV7VJJNhJGWjVu2%2BQ%3D&ske=2025-08-12T01%3A21%3A33Z&skoid=e52d5ed7-0657-4f62-bc12-7e5dbb260a96&sks=b&skt=2025-08-05T01%3A21%3A33Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02"
+        }
+      ]
+    }
+  }
+]

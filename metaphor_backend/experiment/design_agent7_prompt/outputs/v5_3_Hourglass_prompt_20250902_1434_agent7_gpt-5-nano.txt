@@ -1,0 +1,25 @@
+Prompt1:
+Create a conceptual line-drawing style sketch (approximately 30% complete) using a vertical hourglass as the central metaphor vehicle to encode the data Tenor of a growing trend, reflecting Lifespan decreasing over time. The scene sits on a pure white background with no axes, ticks, gridlines, textures, or photographic realism. Use crisp vector outlines, minimal shading (none), and a balanced composition with clear foreground, midground, and generous negative space.
+
+Metaphor and structure:
+- Central motif: a clean, upright hourglass silhouette (two cones connected by a narrow neck) representing the passage of time and the lifespan concept.
+- Visual channels (strict one-to-one mapping from data fields):
+  - Remaining days -> sand grains size: within the bottom chamber and along the flow, depict discrete sand grains whose sizes progressively increase along the downward path, conveying the data fact of growth as time passes.
+  - Year -> falling sand stream position: a slender, falling sand stream traverses the neck; its vertical position along the hourglass indicates year progression (earlier years higher, later years lower). Keep it as a single, simple stream with no markings.
+
+Composition details:
+- Foreground: the hourglass outline in bold but simple vector lines; no fill, or a light, uniform fill only if necessary to suggest form without breaking the 2D line aesthetic.
+- Sand representation: discrete grain elements along the flow; sizes increase as they move downward, forming a subtle diagonal progression to emphasize growth.
+- Background: pure white, no textures or decorative elements.
+- No numerical labels, axes, ticks, gridlines, or realistic shading; no photography.
+
+Annotations (embedded within the prompt to guide mapping):
+- Data mapping: Remaining days → sand grains size; Year → position of falling sand stream.
+- The overall composition should clearly convey a growing trend through grain-size progression and a hanging stream position, while the hourglass as a whole remains the defining structural metaphor for lifespan over time.
+
+Style anchors:
+- clean vector graphics, abstract minimalism, sketch
+- balanced composition, subtle metaphorical elegance
+- ample whitespace, straightforward reading path, no clutter
+
+This prompt is ready for direct use in a text-to-image API to generate a concept sketch that preserves the required metaphor-structure, data mappings, and minimal decoration.

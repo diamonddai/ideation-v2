@@ -1,0 +1,71 @@
+{
+  "performance": {
+    "average_time_per_word": 0.09389631450176239,
+    "total_time": 1.5023410320281982,
+    "average_results_per_word": 4.6875,
+    "total_results": 75
+  },
+  "quality": {
+    "average_novelty": 0.9875,
+    "average_diversity": 0.846875,
+    "novelty_scores": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      0.8,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "diversity_scores": [
+      0.8,
+      0.75,
+      0.6,
+      0.8,
+      1.0,
+      0.6,
+      0.8,
+      1.0,
+      1.0,
+      0.6,
+      1.0,
+      1.0,
+      1.0,
+      0.8,
+      0.8,
+      1.0
+    ]
+  },
+  "biological_strategies": {
+    "gene_mutation": {
+      "description": "基因突变类比：模拟生物基因突变，引入不同幅度的语义扰动",
+      "implementation": "使用不同突变率生成语义扰动向量",
+      "effectiveness": "high"
+    },
+    "niche_exploration": {
+      "description": "生态位探索：优先搜索语义空间中稀疏、少被占据的区域",
+      "implementation": "在中等相似度范围内随机选择候选向量",
+      "effectiveness": "medium"
+    },
+    "adaptive_radiation": {
+      "description": "适应性辐射：从一个种子点爆发出多方向的变异",
+      "implementation": "生成多个正交方向的辐射向量",
+      "effectiveness": "high"
+    }
+  },
+  "compliance": {
+    "time_requirement": true,
+    "result_count_requirement": true,
+    "noun_output": true,
+    "biological_strategies": true
+  }
+}

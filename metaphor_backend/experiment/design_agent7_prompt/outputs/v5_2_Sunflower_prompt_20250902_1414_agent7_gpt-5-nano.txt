@@ -1,0 +1,26 @@
+A concept sketch in clean vector style on a pure white background, minimal decoration, no axes or gridlines. The metaphor vehicle is a sunflower as a living timeline that encodes the data trend of Van Gogh’s output from early to late the period, peaking in the late period, without numeric labels. Composition features foreground, mid-ground, and background with ample negative space.
+
+Scene and metaphor:
+- Central motif: sunflowers arranged along a flowing arc that suggests a timeline. Each flower represents a data slice; petals and stem attributes encode the two required visual channels.
+- Data channel 1 (petal size): petal count is represented by the size of each flower’s petals. As you move along the arc from left to right, petals progressively become larger, conveying a rising annual output (growing trend) without showing exact numbers.
+- Data channel 2 (stem height/position): the height of each stem is encoded by its vertical position along the arc. Early years are depicted with shorter stems lower on the arc, while later years are depicted with taller stems higher along the arc, reinforcing the sense of progression in time.
+- Time ordering: left-to-right along the arc communicates chronological progression (1879 toward the late period), with the final flowers appearing larger and taller to imply peak activity, but without any explicit dates or scales.
+
+Layout and layers:
+- Foreground: a prominent sunflower with bold petals and a clear, clean silhouette to anchor the metaphor.
+- Mid-ground: a gentle line of smaller sunflowers following the same arc, maintaining consistent spacing and reduced detail to emphasize the pattern.
+- Background: abstract, very light suggestion of fields or horizon, kept flat and minimal to avoid visual clutter.
+- Spacing and overlap: minimal overlap between elements; all shapes have clearly defined vector edges; no textures or photorealistic shading.
+
+Color and style:
+- Palette: flat, muted sunflowers yellows, warm ochres, and clean greens; limited tonal variation to maintain abstract minimalism.
+- Style anchors: clean vector graphics, abstract minimalism, sketch-like linework, balanced composition, subtle metaphorical elegance.
+- No text overlays, no decorative textures, and no photographic realism.
+
+Annotation of data mapping (conceptual, not visible in final render):
+- Data field “annual output” maps to petal size.
+- Data field “time” maps to stem height/position along the arc.
+- These mappings are described within the prompt as part of the design intent to ensure the metaphor remains readable without numbers or axes.
+
+Overall goal:
+- A 30%-complete conceptual sketch that preserves a clear, one-to-one data-to-channel mapping, emphasizes relative relationships and trend while leaving room for 70% of creative extension, and adheres to the no-axes, no-gridlines constraint. The result should read as a disciplined, readable metaphor rather than a chart.

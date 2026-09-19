@@ -1,0 +1,20 @@
+Prompt1:
+
+Metaphor vehicle: hourglass. Data tenor: growing. Context: a data narrative where human lifespan decreases over time. Visual mapping (one-to-one, no ambiguity):
+- Data field remaining days → size of sand grains (in the upper chamber). The grains are discrete geometric shapes whose sizes progressively increase as they approach the neck, suggesting a growing grain-size representation of remaining days.
+- Data field year → vertical position of the falling sand stream through the neck. The position of the stream encodes progression through time (earlier years higher in the neck, later years lower).
+
+Design constraints and style:
+- 30% complete concept sketch, leaving ~70% extension for the designer.
+- No axes, no ticks, no gridlines; no chart-like elements.
+- White pure background; minimal decorative elements; clean vector lines; abstract minimalism; sketch-like feel; balanced composition.
+- Foreground/space: a clear front layer (hourglass) with a distinct top bulb, narrow neck, and bottom bulb. Sand grains in the top are clearly segmented shapes; the stream passes through the neck as a bead-like line.
+- Color: restrained palette (e.g., black or dark gray line art on white) with optional very soft shading; no textures or photographic realism.
+- Foreground separation: avoid element overlap that obscures the semantic mapping; ensure the hourglass remains the central, legible metaphor.
+
+Embedded annotation (very small, not cluttering the composition):
+- Data mapping: remaining days → grain size; year → stream position
+- Optional micro caption near the top edge: “Data mapping: remaining days → grain size; year → stream position” (kept unobtrusive)
+
+Notes for interpretation:
+- The hourglass itself encodes the data flow; grain-size variation communicates the growing aspect of remaining days; the vertical position of the sand stream through the neck communicates the year progression. No numerical labels or axes are shown. The result should read as a conceptual, structural sketch with clear metaphor-to-data mapping while maintaining ample white space and minimal decoration.

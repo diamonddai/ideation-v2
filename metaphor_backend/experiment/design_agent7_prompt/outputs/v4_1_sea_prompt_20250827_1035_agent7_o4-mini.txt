@@ -1,0 +1,25 @@
+Generate a metaphorical conceptual sketch (vector, non-photorealistic).
+
+Constraints:
+- Pure white background; remove all decorative textures and photographic detail  
+- Minimal geometric wave forms; forbid infographic-style verbose callouts or axis lines  
+- Preserve at least 70% open canvas for designer extension  
+- Use only the sea-as-structure metaphor; no extra icons or labels  
+
+Heuristics:
+- Waves rising progressively from left to right (rising, progressing)  
+- Crest heights clarify the steady urban population growth (clarifying)  
+- Abstract and minimalist composition  
+
+Content to render:
+- Sea wave metaphor: a sequence of stylized waves across the water  
+- population → wave height (size)  
+- time → wave position (horizontal placement)  
+
+Natural layout hints:
+- Arrange waves left to right like an advancing tide  
+- Ensure clear foreground (largest wave), mid-ground, and background depth  
+- Maintain generous white space around each wave  
+
+Style keywords: clean vector graphics, abstract minimalism, data visualization clarity, cinematic clarity, sketch  
+Meta: no mapping reduction

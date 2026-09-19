@@ -1,0 +1,30 @@
+Concept sketch prompt (30% complete): Metaphor vehicle: [metaphor_vehicle] encodes data tenor: growing
+
+- Core idea: A single sunflower serves as the structural backbone. The composition is minimal, vector-based, and on a pure white background. No axes, no gridlines, no photographic texture. The sunflower embodies the data trend through its form and arrangement.
+
+- Layout and metaphor structure:
+  - A clean, stylized sunflower stands upright as the main body. Its stem curves gently, forming a natural reading path from bottom to top.
+  - Along the curved stem, place eleven blossoms in chronological order from bottom (earlier years) to near the top (later years). Each blossom represents one year in the 1879–1889 span; the exact years are abstracted to emphasize relative timing.
+  - Data mapping (one-to-one, no ambiguity):
+    - Data field “annual output” maps to the petal count (size) of each blossom. Growth over time is shown by increasing petal count along the stem, reflecting the rising trend.
+    - Data field “time” maps to the vertical position (height) of each blossom on the stem. Earlier years appear lower, later years appear higher, guiding the viewer’s reading path without axes or ticks.
+
+- Trend articulation (emphasize growth, not exact values):
+  - Petals steadily grow in size as you move upward along the stem, with the largest blossom positioned toward the upper-mid area to evoke the peak around 1888.
+  - The final year (toward the top) remains prominent but does not surpass the peak, visually signaling that the maximum occurs near the upper portion of the stem without precise numbers.
+
+- Aesthetic and styling notes:
+  - Style anchors: clean vector graphics, abstract minimalism, sketch-like linework, balanced composition, subtle metaphorical elegance.
+  - Color palette: sunflower yellow petals with a warm brown center; muted green stem and leaves; flat fills, no textures.
+  - Foreground/Morgin/Background: clear foreground sunflower, with ample white space around; no background textures.
+  - Negative space and alignment: no axes, ticks, or gridlines. If any alignment cues are used, keep them as extremely faint, non-intrusive dotted points or short dashes that do not read as a grid.
+
+- Annotations and data mapping notes (embedded, minimal):
+  - Caption (very light): Data mapping — annual output → petal count (size); time → stem height (position).
+  - These notes are integrated into the metaphor主体 as subtle, non-dominant cues.
+
+- Context nod (subtle, non-intrusive):
+  - A restrained allusion to Van Gogh’s sunflower motif is suggested through color balance and organic flower forms, without photographic realism or explicit painting texture.
+
+- Deliverable intent:
+  - This prompt targets a conceptual, approximately 30% finished sketch that clearly communicates the data relationships and trend through the sunflower metaphor, leaving room for designer refinement while preserving the one-to-one mapping from data fields to visual channels.

@@ -1,0 +1,125 @@
+{
+  "success": true,
+  "image_url": "https://example.com/generated_image.jpg",
+  "image_prompt": "Use Sunflower as a visual metaphor to portray growing involving annual output and time. Encode annual output with the petal count (point) using the size channel; points grow larger with higher values. Encode time with the stem height (line) using the position channel; values move farther along the axis. Keep a minimal composition with generous margins and a neutral background; emphasize clear metaphorical shapes and avoid text or axes. Flat infographic style with crisp edges and a restrained blue-grey palette; light shading only for legibility.",
+  "data_fact_caption": "这组数据展示了梵高作品在1879年至1889年间的产出情况，1888年最高，1879年最低。",
+  "mapping": [
+    "position",
+    "size"
+  ],
+  "mapping_spec": {
+    "mapping_id": "map_902a27b1",
+    "keyword": "Sunflower",
+    "dataFact": "growing",
+    "contextDescription": "This data presents the output of Van Gogh's works from 1879 to 1889, with the highest in 1888 and the lowest in 1879",
+    "defaultPlan": [
+      {
+        "dataField": "annual output",
+        "subitemId": "1",
+        "subitemName": "petal count",
+        "channels": [
+          "size"
+        ]
+      },
+      {
+        "dataField": "time",
+        "subitemId": "2",
+        "subitemName": "stem height",
+        "channels": [
+          "position"
+        ]
+      }
+    ],
+    "field1": {
+      "dataField": "annual output",
+      "subitemOptions": [
+        {
+          "subitem_id": "1",
+          "name": "petal count",
+          "geometry": "point"
+        },
+        {
+          "subitem_id": "2",
+          "name": "seed head diameter",
+          "geometry": "line"
+        },
+        {
+          "subitem_id": "3",
+          "name": "leaf spread area",
+          "geometry": "area"
+        },
+        {
+          "subitem_id": "4",
+          "name": "root depth",
+          "geometry": "line"
+        },
+        {
+          "subitem_id": "5",
+          "name": "stalk thickness",
+          "geometry": "line"
+        }
+      ],
+      "channels": {
+        "allowed": [
+          "position",
+          "size",
+          "lightness",
+          "color",
+          "texture",
+          "orientation",
+          "shape"
+        ],
+        "default": [
+          "size"
+        ]
+      }
+    },
+    "field2": {
+      "dataField": "time",
+      "subitemOptions": [
+        {
+          "subitem_id": "2",
+          "name": "stem height",
+          "geometry": "line"
+        },
+        {
+          "subitem_id": "1",
+          "name": "petal count",
+          "geometry": "point"
+        },
+        {
+          "subitem_id": "3",
+          "name": "leaf spread area",
+          "geometry": "area"
+        },
+        {
+          "subitem_id": "4",
+          "name": "root depth",
+          "geometry": "line"
+        },
+        {
+          "subitem_id": "5",
+          "name": "stalk thickness",
+          "geometry": "line"
+        }
+      ],
+      "channels": {
+        "allowed": [
+          "position",
+          "orientation",
+          "lightness",
+          "color",
+          "texture",
+          "size",
+          "shape"
+        ],
+        "default": [
+          "position"
+        ]
+      }
+    }
+  },
+  "source": "annual output",
+  "target": "Sunflower",
+  "error": null
+}

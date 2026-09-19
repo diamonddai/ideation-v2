@@ -1,0 +1,12 @@
+Prompt1:
+Concept sketch in clean vector lines on a pure white background. Metaphor vehicle: the sea as the structural carrier encoding the growing trend of urban population over the past decade. A simple coastline features a sequence of stylized wave crests arranged left to right. Each crest height encodes population magnitude (growth) and the horizontal position of each crest along the shoreline encodes time (earlier to later). No axes, gridlines, ticks, or numeric scales. No textures; flat vector fills with a restrained cool blue palette and subtle tonal differences between crests. Layering follows a clear foreground (beach), midground (waves), and distant background (horizon); composition is minimalist and balanced with ample whitespace.
+
+Data mapping notes (embedded in the metaphor as tiny captions, unobtrusive):
+- Data field population → height/size of each wave crest
+- Data field time → horizontal position of each crest along the shoreline
+
+Design intent:
+- Approximate thirty percent complete concept sketch; the metaphor structure and data relationships are explicit, leaving seventy percent for the designer to extend.
+- No numerical values or explicit measurements; the emphasis is on relative growth and temporal progression.
+- Read as a natural, abstract metaphor rather than a chart; avoid any photorealism or decorative texture.
+- If captions are included, keep them minimal and in natural language near the corresponding waves (e.g., “population → crest height,” “time → crest position”).

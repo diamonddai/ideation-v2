@@ -1,0 +1,41 @@
+prompt1:
+
+[metaphor_vehicle] A tall sunflower stem acts as a living timeline to encode data trends. Blossoms line the shaft from bottom to top, each bloom representing a year in Van Gogh’s output (1879 through the late 1880s). The overall scene is a clean vector sketch on pure white, with minimal shading and no axes, ticks, or gridlines. The composition uses foreground/mid/background separation and ample whitespace for clarity. Style anchors: clean vector graphics, abstract minimalism, sketch, balanced composition, subtle metaphorical elegance. This is a conceptual 30% complete sketch, leaving room for extension.
+
+data_tenor: growing
+
+Data-to-visual mappings (one-to-one, explicit):
+- annual output → petal size (bloom diameter)
+  - as annual output grows, the petals become larger from bloom to bloom along the timeline
+- time → stem position (height along the stem where each bloom sits)
+  - chronology flows bottom-to-top: earliest year near the base, later years higher up
+
+Chronology and trend notes to guide layout:
+- The bottom bloom corresponds to the earliest year (1879) and is comparatively small
+- Petal sizes gradually increase upward, illustrating a rising trend
+- The peak area occurs around the late 1880s (notably 1888)
+- The top region remains above the base, indicating continuation beyond the peak year without implying precise values
+
+Visual and technical guidance (no axes, no gridlines):
+- Use a single, continuous sunflower stem with evenly spaced blossoms along its length
+- Maintain a minimalist, vector line work appearance; avoid textures or photographic realism
+- Color palette: restrained natural sunflower tones — warm yellow petals, dark central disk, muted green stem/leaves; white background
+- No numerical axes, ticks, or gridlines; if alignment cues are used, keep them extremely faint and non-intrusive (very light alignment hints only)
+- Foreground focus on the sunflower stem and blooms; preserve clear separation from a generous white backdrop
+- Minimal textual annotations only to support data mapping, kept subtle and non-distracting
+
+Annotated data mapping within the scene (concise guidance):
+- Data Field "annual output" → Visual Channel "petal size"
+  - Label: "annual output → petal size" (small, unobtrusive caption near the base or within the note)
+- Data Field "time" → Visual Channel "stem position"
+  - Label: "time → stem position" (placed subtly along the stem’s vertical rhythm)
+
+Metaphorical emphasis:
+- The sunflower and its rising blooms symbolize growth in Van Gogh’s prolific output over time
+- The arrangement reads as a natural timeline, not as a chart, preserving the metaphorical integrity
+
+Output characteristics:
+- 30% complete conceptual sketch ready for designer extension
+- No realistic textures, no photographic lighting
+- White background, crisp vector edges, clean silhouettes
+- Minimal typography; only essential captions to convey the explicit data-field → visual-channel mappings

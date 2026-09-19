@@ -1,0 +1,27 @@
+# Secrets
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+ENV/
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+
+# Logs / runtime
+logs/
+*.log
+metaphor_backend/cache.json

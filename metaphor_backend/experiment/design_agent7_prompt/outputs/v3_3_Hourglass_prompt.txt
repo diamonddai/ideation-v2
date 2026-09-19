@@ -1,0 +1,28 @@
+Generate a metaphorical conceptual sketch (vector, non-photorealistic).
+
+Constraints:
+- Metaphor subject: An hourglass as the primary structural metaphor, rendered with clean vector lines on a pure white background; decorations kept to a minimum; composition reads as a conceptual sketch at about 30% completion.
+- Data channels (two max, one-to-one, no new channels): remaining days → size; year → position.
+- Trend expression: convey a growing trend through the hourglass’ sand dynamics (e.g., the sand segment grows or the flow emphasizes progression) without adding numeric labels or extraneous decoration.
+- Spatial and layering: establish clear foreground/midground/background without element overlap that obscures the mapping; shapes should remain crisp and legible.
+- Color and typography: restrained, grey-low-saturation palette; use minimal color only if it serves to distinguish the sand from the glass; white background; minimal or no text, only essential annotations if needed.
+- No axes, no textures, no photographic realism; keep a clean, vector-geometric aesthetic.
+- Reading path and layout: encode time/sequence primarily through position along the hourglass axis; avoid redundant explanations near the subject.
+
+Heuristics:
+- Hourglass as metaphor anchors the composition; the sand dynamics imply a progressing, clarifying growth of the trend.
+- Time/sequence is read from top to bottom via the vertical position along the hourglass.
+- Maintain strict one-to-one data-to-channel mapping; keep the design legible at a sketch depth.
+
+Content to render:
+- remaining days → size: The size of the sand segment encodes remaining days within the hourglass.
+- year → position: The vertical position along the hourglass silhouette encodes the year.
+
+Layout hints:
+- Hint 1: Present a single, clear hourglass silhouette with a pronounced narrow waist; show sand mass distribution that suggests growth as time progresses, without crowding or overlap.
+- Hint 2: Keep the composition airy with ample white space; avoid decorative textures or busy backgrounds; no axes or grid.
+- Hint 3: Use a restrained grey palette for the glass and sand; if color appears, apply it sparingly to emphasize the sand without compromising the minimalist, vector feel.
+
+Style keywords: clean vector graphics, abstract minimalism, data visualization clarity, cinematic clarity, sketch.
+
+Meta: no mapping reduction

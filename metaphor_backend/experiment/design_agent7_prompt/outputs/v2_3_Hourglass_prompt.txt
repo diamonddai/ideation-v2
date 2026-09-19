@@ -1,0 +1,35 @@
+Generate a metaphorical conceptual sketch (vector, non-photorealistic).
+
+Constraints (must follow):
+- Produce a conceptual sketch (~30% completeness) with Hourglass as the overall structure.
+- Do not render precise values; focus on relative relationships and trends.
+- Use abstract vector primitives; non-photorealistic; crisp minimal composition.
+- Limit to 3–4 visual channels strictly derived from input; do not invent channels.
+- One data dimension maps to exactly one visual channel (no reuse).
+- Remove decorative textures/background; preserve generous negative space.
+- Clear foreground–midground–background hierarchy; avoid heavy overlap.
+- Low-saturation harmonious palette; reduce hues unless color is a mapping channel.
+- Minimize text; avoid dense labels and large paragraphs.
+- Ban axes; prefer natural layouts driven by the metaphorical structure.
+- No infographic-style verbose callouts near the subject; keep the scene clean.
+- No photorealism; no photography texture; no unrelated ornament.
+
+Heuristics (apply explicitly):
+- Treat Hourglass as the overall structure to encode data (not 'like a chart').
+- Describe growing using controlled dynamic descriptors: progressing, clarifying.
+- Rewrite each defaultPlan mapping into natural-language visual annotations (data → channel).
+- Prefer positional encoding for time/order to improve reading flow.
+- End with stable style anchors for consistent outputs.
+
+Content to render:
+Overall metaphorical structure: Hourglass, conveying This data presents the process in which human lifespan decreases over time.
+Visual trend emphasis: express growing using progressing, clarifying; trend-level fidelity only.
+Data mappings (rewrite as visual annotations):
+- remaining days → size: sketched with simple geometric primitives, encoded via the size channel, using Hourglass as the overall structure.
+- year → position: sketched with simple geometric primitives, encoded via the position channel, using Hourglass as the overall structure.
+Natural layout hints (no axes):
+- arranged as concentric rings like tree rings
+- displayed as a flowing hourglass shape
+- scattered across a field of poppies
+
+Style keywords: clean vector graphics, abstract minimalism, data visualization clarity, cinematic clarity, sketch.

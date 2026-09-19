@@ -1,0 +1,24 @@
+Generate a metaphorical conceptual sketch (vector, non-photorealistic).
+
+Constraints:
+- pure white background, no decorative textures or patterns  
+- avoid infographic-style verbose callouts; only minimal natural annotations  
+- no axes or grid lines; preserve abundant white space around the hourglass  
+
+Heuristics:
+- grains shrinking as they pass through the narrow neck (shrinking)  
+- time progressing in a downward flow (progressing)  
+- clarifying the trend of decreasing remaining days (clarifying)  
+
+Content to render:
+Use an hourglass outline as the overall structure with embedded annotations  
+remaining days → size of each sand grain  
+year → vertical position along the hourglass flow  
+
+Layout hints:
+- top chamber with larger grains for earlier years, bottom with smaller grains for later years  
+- clear gap at the neck to emphasize transition  
+- strictly vertical arrangement to guide the eye downward  
+
+Style keywords: clean vector graphics, abstract minimalism, data visualization clarity, cinematic clarity, sketch.  
+Meta: no mapping reduction

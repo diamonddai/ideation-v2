@@ -1,0 +1,84 @@
+[
+    {
+        "success": true,
+        "image_url": "https://example.com/generated_image.jpg",
+        "image_prompt": "An impressionist style chart where each sunflower represents the annual artwork production of Van Gogh. The number of petals on each sunflower corresponds to the number of paintings produced each year, with varying sizes and colors to reflect different years and artistic periods.",
+        "data_fact_caption": "Each sunflower's petal count represents the number of artworks Van Gogh produced annually, depicted in an impressionist chart style.",
+        "mapping": [
+            "尺寸",
+            "颜色"
+        ],
+        "source": "梵高每年作品产量",
+        "target": "向日葵的花瓣数量",
+        "error": null
+    },
+    {
+        "success": true,
+        "image_url": "https://example.com/generated_image.jpg",
+        "image_prompt": "A realistic chart-style depiction of a large hourglass with sand at various levels to represent different human lifespans, each level marked with age numbers and the brightness of the sand varying to emphasize the passage of time.",
+        "data_fact_caption": "This image illustrates human lifespans as sand in an hourglass, with the position, size, and brightness of the sand reflecting different ages and stages of life.",
+        "mapping": [
+            "位置",
+            "尺寸",
+            "明度"
+        ],
+        "source": "人的寿命",
+        "target": "沙漏中的沙子",
+        "error": null
+    },
+    {
+        "success": true,
+        "image_url": "https://example.com/generated_image.jpg",
+        "image_prompt": "A realistic chart style image depicting various heights of ocean waves, each wave height representing different population sizes. The waves are arranged from smallest to largest, with varying brightness and positions to indicate the scale of population.",
+        "data_fact_caption": "每个海浪的高度代表不同的人口数，海浪的尺寸、位置和明度变化反映人口规模的不同。",
+        "mapping": [
+            "尺寸",
+            "位置",
+            "明度"
+        ],
+        "source": "人口数",
+        "target": "海浪的高度",
+        "error": null
+    },
+    {
+        "success": true,
+        "image_url": "https://example.com/generated_image.jpg",
+        "image_prompt": "Realistic chart style depicting the number of disease infections as sticky, varying-sized and colored gumballs, with a textured surface to represent data strings",
+        "data_fact_caption": "Each gumball represents the number of people infected with a disease, varying in size and color to reflect the magnitude and characteristics of the data.",
+        "mapping": [
+            "尺寸",
+            "颜色",
+            "纹理"
+        ],
+        "source": "感染疾病人数",
+        "target": "黏黏的口香糖",
+        "error": null
+    },
+    {
+        "success": true,
+        "image_url": "https://example.com/generated_image.jpg",
+        "image_prompt": "A realistic chart depicting various mountains with heights proportional to the emission levels of light from different sources. Each mountain's position and size on the canvas corresponds to the relative position and intensity of the light source in a real-world scenario.",
+        "data_fact_caption": "The height of each mountain in the chart represents the amount of light emitted from different sources, with taller mountains indicating higher emissions.",
+        "mapping": [
+            "位置",
+            "尺寸"
+        ],
+        "source": "光的排放量",
+        "target": "凸起的山的高度",
+        "error": null
+    },
+    {
+  "success": true,
+  "image_url": "https://example.com/generated_image.jpg",
+  "image_prompt": "Use 海洋 as a visual metaphor to portray 增长 involving 时间 and 人口. Encode 时间 with the 海洋波浪 (line) using the position channel; values move farther along the axis. Encode 人口 with the 海洋区域 (area, band) using the size channel; areas expand with larger values. Keep a minimal composition with generous margins and a neutral background; emphasize clear metaphorical shapes and avoid text or axes. Flat infographic style with crisp edges and a restrained blue-grey palette; light shading only for legibility.",
+  "data_fact_caption": "该数据呈现了城市人口在过去十年中的持续增长趋势",
+  "mapping": [
+    "position",
+    "size"
+  ],
+  "source": "人口",
+  "target": "海洋",
+  "error": null
+}
+    
+]

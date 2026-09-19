@@ -1,0 +1,31 @@
+Prompt1 (concept sketch, approx 30% complete)
+
+Metaphor vehicle and data tenor
+- Core metaphor: a flowing field of sunflowers as the structural carrier for trends in Van Gogh’s output (late 19th century). The arrangement uses a natural, organic layout (no charts) to encode growth as a visual metaphor.
+- Data tenor: growing trend. The composition communicates increasing output over time without numeric detail.
+
+Subject and composition
+- The scene is a clean white page with vector-style, minimal line work. No textures, no photographic realism, no background clutter.
+- A single sequence of sunflowers unfolds along a gentle curved path from lower-left to upper-right, representing time progression without axes or gridlines.
+- Each sunflower represents one year in the sequence (early to late). The overall balance should feel calm and legible, with ample white space and distinct layers (foreground, midground, background) without overlap that obscures reading order.
+
+Data mapping (one-to-one, explicit)
+- Annual output (data field) -> Petal size: as time progresses, each sunflower’s petals are larger to signify higher annual output. Petal count is represented by the visible petal size, not by numeric labels.
+- Time (data field) -> Stem height/vertical position: later years appear with taller stems, and the flower head sits higher along the stem. The position along the curve encodes temporal order, reinforcing the reading direction from left to right.
+
+Style and visual language
+- Aesthetics: clean vector graphics, abstract minimalism, sketch-like line quality, balanced composition, subtle metaphorical elegance.
+- Color treatment: restrained palette with sun-yellow petals, warm orange centers, and muted green stems; consistent across the sequence.
+- Text: minimal or no textual labels within the image; if any annotation is needed, keep it to a single, unobtrusive note outside the main composition.
+
+Framing and layering
+- Foreground/midground/background separation is implied by line weight and leaf/flower layering, not by shading or texture.
+- No decorative textures, no realistic rendering, no axes, no ticks, no gridlines. If alignment hints are used, they should be extremely faint and non-intrusive (not forming a grid).
+
+Notes for designers (embedded in prompt)
+- Data field mappings (for clarity): “annual output → petal size” and “time → stem height/vertical position.”
+- The metaphor serves as the structural encoding of the data tenor; the reader should grasp rising output as the sequence progresses, via increasing petal size and stem height, without numeric labels.
+
+Overall guidance
+- This is a conceptual sketch, approximately 30% finished, leaving ample room for extension and refinement by the designer.
+- The mood is restrained, precise, and elegant; the metaphor carries the data without resorting to conventional data visualization cues.

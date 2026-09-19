@@ -1,0 +1,5 @@
+Prompt1:
+“A clean, conceptual vector line sketch on a pure white background: a sequence of simplified sunflower silhouettes arranged left to right along an invisible baseline, conveying a rising trend.  
+• Each stem’s height gradually increases from left to right, encoding time progression from 1879 (shortest) to 1889 (tallest)  【stem height → time】  
+• Each sunflower’s petal count gradually increases to represent annual output, with the fewest petals at the start and the most in 1888  【petal count → size → annual output】  
+No axes, ticks, gridlines, or decorative textures—only crisp geometric outlines at ~30% rendering detail, ample negative space for designer refinement. Style: clean vector graphics, abstract minimalism, subtle metaphorical elegance.”

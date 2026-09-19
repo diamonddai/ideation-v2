@@ -1,0 +1,125 @@
+{
+  "success": true,
+  "image_url": "https://example.com/generated_image.jpg",
+  "image_prompt": "Use Hourglass as a visual metaphor to portray growing involving remaining days and year. Encode remaining days with the sand grains (point) using the size channel; points grow larger with higher values. Encode year with the falling sand stream (line) using the position channel; values move farther along the axis. Keep a minimal composition with generous margins and a neutral background; emphasize clear metaphorical shapes and avoid text or axes. Flat infographic style with crisp edges and a restrained blue-grey palette; light shading only for legibility.",
+  "data_fact_caption": "该数据展示了人类寿命随时间减少的过程",
+  "mapping": [
+    "position",
+    "size"
+  ],
+  "mapping_spec": {
+    "mapping_id": "map_a6e47cd2",
+    "keyword": "Hourglass",
+    "dataFact": "growing",
+    "contextDescription": "This data presents the process in which human lifespan decreases over time",
+    "defaultPlan": [
+      {
+        "dataField": "remaining days",
+        "subitemId": "1",
+        "subitemName": "sand grains",
+        "channels": [
+          "size"
+        ]
+      },
+      {
+        "dataField": "year",
+        "subitemId": "2",
+        "subitemName": "falling sand stream",
+        "channels": [
+          "position"
+        ]
+      }
+    ],
+    "field1": {
+      "dataField": "remaining days",
+      "subitemOptions": [
+        {
+          "subitem_id": "1",
+          "name": "sand grains",
+          "geometry": "point"
+        },
+        {
+          "subitem_id": "2",
+          "name": "falling sand stream",
+          "geometry": "line"
+        },
+        {
+          "subitem_id": "3",
+          "name": "upper bulb sand mound",
+          "geometry": "area"
+        },
+        {
+          "subitem_id": "4",
+          "name": "lower bulb sand mound",
+          "geometry": "area"
+        },
+        {
+          "subitem_id": "5",
+          "name": "hourglass neck",
+          "geometry": "line"
+        }
+      ],
+      "channels": {
+        "allowed": [
+          "position",
+          "size",
+          "lightness",
+          "color",
+          "texture",
+          "orientation",
+          "shape"
+        ],
+        "default": [
+          "size"
+        ]
+      }
+    },
+    "field2": {
+      "dataField": "year",
+      "subitemOptions": [
+        {
+          "subitem_id": "2",
+          "name": "falling sand stream",
+          "geometry": "line"
+        },
+        {
+          "subitem_id": "1",
+          "name": "sand grains",
+          "geometry": "point"
+        },
+        {
+          "subitem_id": "3",
+          "name": "upper bulb sand mound",
+          "geometry": "area"
+        },
+        {
+          "subitem_id": "4",
+          "name": "lower bulb sand mound",
+          "geometry": "area"
+        },
+        {
+          "subitem_id": "5",
+          "name": "hourglass neck",
+          "geometry": "line"
+        }
+      ],
+      "channels": {
+        "allowed": [
+          "position",
+          "orientation",
+          "lightness",
+          "color",
+          "texture",
+          "size",
+          "shape"
+        ],
+        "default": [
+          "position"
+        ]
+      }
+    }
+  },
+  "source": "remaining days",
+  "target": "Hourglass",
+  "error": null
+}

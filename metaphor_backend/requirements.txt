@@ -1,0 +1,37 @@
+# Web 框架
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+
+# 数据验证和序列化
+pydantic==2.5.0
+pydantic-settings==2.9.1
+
+# AI/LLM 相关
+langchain==0.0.350
+langchain-openai==0.0.2
+langchain-community==0.0.10
+langchain-core==0.1.23
+openai==1.6.1
+
+# 数据处理
+pandas==2.1.4
+numpy==1.25.2
+scikit-learn==1.1.2
+scipy==1.13.1
+
+# 词向量和文本处理
+gensim==4.3.3
+
+# HTTP 客户端
+httpx==0.25.2
+requests==2.27.1
+
+# 工具包
+python-multipart==0.0.6
+python-dotenv==1.0.0
+joblib==1.1.0
+tqdm==4.64.0
+
+# OSS 存储
+oss2==2.19.1
+crcmod==1.7 

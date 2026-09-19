@@ -1,0 +1,24 @@
+Generate a metaphorical conceptual sketch (vector, non-photorealistic).
+
+Constraints:
+- pure white background
+- minimal text; forbid infographic-style verbose callouts
+- no coordinate axes, grids, or decorative textures
+- use only clean vector geometry; retain about 30% sketch completion
+
+Heuristics:
+- show blooms rising progressively in size
+- illustrate a peak spike in 1888
+- convey a steady growth trend with clear white space
+
+Content to render:
+- sunflowers arranged as a field of blooms from left to right
+- time (1879–1889) → horizontal position of each bloom
+- annual output → bloom diameter
+
+Layout hints:
+- align blooms along a gentle upward curve guiding the eye
+- space each sunflower evenly to avoid overlap
+
+Style keywords: clean vector graphics, abstract minimalism, data visualization clarity, cinematic clarity, sketch  
+Meta: no mapping reduction

@@ -1,0 +1,22 @@
+Prompt1:
+
+Create a conceptual sketch (approximately 30% complete) using a sea metaphor as the overall structure to encode the data: urban population growth trend over the past decade. The design should be clean, vector-based, abstract, and minimal, on a pure white background, with ample negative space and no axes, ticks, or gridlines. Color should be limited to cool blues; use flat vector lines with subtle fills and crisp edges.
+
+Data-to-visual mappings (explicit in the scene as unobtrusive annotations):
+- Data field: population → visual channel: wave crest size (the height/volume of each crest grows to represent rising population)
+- Data field: time → visual channel: tide line position (the tide line shifts along the shoreline from left to right to indicate progression through time)
+
+Composition and narrative:
+- Foreground: a sequence of stylized, simple wave crests along a gentle shoreline. The crests increase in height from left to right, conveying a rising trend in urban population over the decade.
+- Middle ground: a slender, elegant tide line that travels along the shore from left to right, representing the passage of time. Its position encodes temporal progression and should read as moving forward in time without implying numeric scales.
+- Background: clean white space with no textures or photos, ensuring the metaphor remains the focus.
+
+Spatial logic and readability:
+- The left-to-right reading path encodes time; the increasing crest sizes encode the magnitude of growth.
+- Keep layers distinct: foreground waves, middle tide line, and open white space in the background, with no element obstructing another.
+- Annotations (small, unobtrusive, and legible): “Population → wave crest size” near the wave crests; “Time → tide line position” near the tide line.
+
+Style and aesthetics:
+- Vector graphics, abstract minimalism, sketch-like quality, balanced composition, and subtle metaphorical elegance.
+- No numeric labels, no realistic textures, and no photographic rendering.
+- The design should feel like a 30% complete concept sketch, leaving clear room for the designer to extend and refine the metaphor further.

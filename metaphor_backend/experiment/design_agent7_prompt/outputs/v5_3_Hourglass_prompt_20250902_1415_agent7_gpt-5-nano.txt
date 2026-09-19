@@ -1,0 +1,32 @@
+Concept sketch prompt (about 30% complete) for a minimalist, vector-style illustration that uses a single metaphor vehicle to encode a clear data trend.
+
+Subject and metaphor
+- Centerpiece: an hourglass as the structural vehicle, embodying the concept of lifespan evolving over time.
+- Overall tone: abstract minimalism, clean vector lines, flat colors, no photographic texture, white background.
+- Mood: calm, contemplative blueprint-like quality, leaving room for refinement.
+
+Data-driven composition (one-to-one mapping, no numerical labels)
+- Data field: remaining days
+  - Visual channel: sand grain size
+  - Interpretation in image: sand grains in the upper chamber vary in size, gradually increasing in size as they move toward the narrow neck, symbolizing a growing factor related to remaining days (growing trend without exact values).
+- Data field: year
+  - Visual channel: falling sand stream position
+  - Interpretation in image: a single flowing sand stream traverses the neck; its vertical position suggests progression through time (later years) as the stream appears lower or more advanced in its path, indicating the passage of time and the shifting lifespan dynamic.
+
+Narrative and layout notes
+- The hourglass should feel slightly tilted to imply motion, but keep the frame clean and uncluttered.
+- Sand grains: use simple circular/oval shapes with crisp vector edges; apply a restrained amber palette and very subtle shading only to convey depth, not realism.
+- Falling sand stream: a slender, tapered line or a sequence of small beads; position is the only indicator of temporal progression, no numeric scales or axes.
+- Foreground/midground/background: establish a clear three-layer composition with the hourglass in the foreground, ample white space around, and no decorative textures or complex backdrops.
+- Avoid: axes, ticks, grids, textures, photographic realism, or dense explanatory text near the composition.
+
+Annotation and explicit mapping
+- A small, unobtrusive caption near the bottom edge (not within the main scene) states:
+  Data mapping: remaining days -> sand grain size; year -> position of falling sand stream.
+- Ensure this annotation is legible but does not dominate the visual, preserving the minimalist, sketch-like feel.
+
+Styling constraints
+- Style anchors: clean vector graphics, abstract minimalism, sketch, balanced composition, subtle metaphorical elegance.
+- Colors: pure white background; black/graphite outline for the hourglass; amber tones for sand.
+- No axes, no gridlines, no heavy shading, and no realistic textures.
+- The composition should read as a conceptual blueprint or design sketch rather than a finished illustration, preserving the 30% completion feel and leaving ample space for future refinement.

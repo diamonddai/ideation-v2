@@ -1,0 +1,29 @@
+Concept sketch prompt1 (30% complete)
+Metaphor vehicle: hourglass as the primary structural carrier encoding the data tenor of growth. Compose a clean, abstract line drawing with minimal decoration on a pure white background. Use vector-style outlines, flat fills, and crisp edges; no shading, textures, or photorealism. Maintain a balanced composition with clear foreground/middle/background separation.
+
+Data-to-visual mapping (one-to-one, explicit in narration within the image)
+- Data field: remaining days -> Visual channel: grain size of individual sand grains. The grain sizes gradually increase along the flowing sand to symbolize a growing trend.
+- Data field: year -> Visual channel: vertical position of the falling sand stream. The stream’s location progresses downward from the upper region toward the lower region of the hourglass to imply passage of years.
+
+Spatial and temporal reading
+- Time/sequence is read from top to bottom along the hourglass flow; no axes, ticks, or gridlines. If alignment cues are used, they must be extremely faint alignment points or tiny dashes that do not resemble a grid or axes.
+
+Composition and layering
+- Front: crisp outline of a classic hourglass silhouette.
+- Middle: stylized sand flow represented by simple rounded grains; grain size increases along the flow path to encode growth.
+- Background: pure white with ample negative space; no decorative textures or backgrounds.
+- Foreground relationships: elements should not be overlapped in a way that obscures the hourglass silhouette; keep elements clearly separated to emphasize the metaphor structure.
+
+Color and typography
+- Color: keep to a minimal vector palette; sand grains can use a subtle amber or pale gold; lines in a dark neutral (e.g., charcoal) for clarity.
+- Text: minimal or none; if annotations are included, use ultra-short, label-like notes only. Any necessary mapping caption should be concise and placed unobtrusively near the hourglass.
+
+Notes for embedding the data-tenor within the metaphor
+- Explicitly describe the mapping in natural language within the prompt: “Remaining days → grain size; Year → stream position.”
+- Ensure the hourglass form remains the central, unambiguous carrier of the data, with the trend conveyed through grain size progression and stream position, not through numeric labels or axis-like features.
+
+Optional subtle alignment cues (extremely faint)
+- If alignment aids are included, keep them as barely perceptible points or dashed hints that do not read as axes or a grid.
+
+Overall directive
+- Deliver a concept sketch that clearly communicates the metaphor as structure, the data relationships, and the trend (growing) while leaving ample room for designer extension, focusing on the core metaphor and the two mapped channels.

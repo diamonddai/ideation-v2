@@ -1,0 +1,30 @@
+Prompt1:
+
+Create a concept sketch in a clean vector style (abstract minimalism, sketch, balanced composition) on a pure white background. No axes, ticks, gridlines, or photo-real textures. The piece serves as a metaphorical structure to encode data trends, with the sunflower field as the container and primary narrative.
+
+Scene concept and metaphor
+- Central metaphor: Sunflower field arranged along a gentle rising arc to encode time and growth. Each flower represents a data point (one year from the early period to the late period). The overall left-to-right progression expresses a rising trend (growing) over time, peaking in the late period.
+- Visual channels (one-to-one data mappings, no numbers): 
+  - Time (data field: time) maps to stem height (position) along the arc. Leftmost stems are shorter (earlier year), rightward stems become taller (later year, near peak).
+  - Annual output (data field: annual output, shown as petal count) maps to petal size (size). Smaller petals indicate lower output; larger petals indicate higher output.
+- Data-to-visual notes (embedded in natural language within the scene): 
+  - Data field “annual output” → petal size of each sunflower.
+  - Data field “time” → vertical position of each stem along the arc (spatial encoding of time).
+
+Composition and layout
+- Foreground sunflowers should be crisp, with bold simple shapes and flat fills; petals are elongated teardrops, centers are simple circles. Stems are clean lines with minimal leaves.
+- Arrange sunflowers along a gentle curved path from left (earliest year) to right (late period), ensuring a clear rise in both stem height and petal size as you move rightward.
+- Layering: clear foreground, midground, and sparse background depth achieved through overlap and selective height variation, while preserving ample white space and avoiding visual clutter.
+- No realistic textures or photographic lighting. Use vector outlines with subtle, controlled shading if any, but keep it minimal.
+- Color palette: warm sunflower yellows/oranges for petals, dark centers, and muted green stems/leaves. Maintain a restrained, flat-color vector look.
+
+Aesthetic and constraints
+- The artwork should feel like a sketch with approximate 30% completion — rough outlines, intentional simplifications, and room for refinement by the designer.
+- The metaphor should carry the data intent without numerical labels, legends, or axes. Avoid captions near the elements; no axis-like cues.
+- Visual tone: understated, elegant, and deliberate; emphasize the metaphor as the carrier of data rather than decorative embellishment.
+
+Optional but recommended subtle cues
+- Slight variation in petal orientation to suggest natural growth, while keeping the overall geometric clarity.
+- Gentle spacing along the arc to maintain readability and ensure each sunflower remains individually legible in the abstraction.
+
+This prompt encodes the data trend as a growing trajectory via a sunflower-based metaphor, with one-to-one mappings: time → stem height (position) and annual output → petal size (size), all within a clean, minimal, non-chart, non-text-heavy composition.

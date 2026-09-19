@@ -1,0 +1,26 @@
+Generate a metaphorical conceptual sketch (vector, non-photorealistic).
+
+Constraints:
+- Pure white background; no decorative textures  
+- Minimal abstract waves; avoid realistic sea details  
+- Forbid infographic-style verbose callouts or labels  
+- No axes or grid lines; leave ample white space  
+- Conceptual draft ~30% detail, room for designer extension  
+
+Heuristics:
+- rising wave crests to evoke growth  
+- progressing flow left to right for time  
+- clear layering with minimal overlap  
+
+Content to render:
+Depict a series of sea wave crests as the structural metaphor  
+population → wave crest height  
+time → wave crest horizontal position (left→right)  
+
+Layout hints:
+- Arrange crests in a smooth left-to-right sequence  
+- Layer crests in foreground, midground, background for depth  
+- Keep equal spacing to emphasize progression  
+
+Style keywords: clean vector graphics, abstract minimalism, data visualization clarity, cinematic clarity, sketch  
+Meta: no mapping reduction

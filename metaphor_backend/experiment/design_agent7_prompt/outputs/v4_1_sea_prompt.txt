@@ -1,0 +1,26 @@
+Generate a metaphorical conceptual sketch (vector, non-photorealistic).
+
+Constraints:
+- pure white background; no decorative textures or complex scenery
+- minimal annotations; forbid infographic-style verbose callouts
+- no axes, grids or chart framing; preserve open whitespace
+
+Heuristics:
+- waves growing in amplitude
+- progression from gentle to powerful surf
+- continuous rising motion
+- spiking crest at the final wave
+
+Content to render:
+- overall metaphor: a sea of waves encoding urban population growth
+- population → wave size (crest amplitude)
+- time → horizontal sequence (left-to-right order)
+
+Layout hints:
+- arrange successive waves along a horizontal plane without overlap
+- maintain clear foreground waves and ample white midground
+- leave blank background space to emphasize structure
+
+Style keywords: clean vector graphics, abstract minimalism, data visualization clarity, cinematic clarity, sketch.
+
+Meta: no mapping reduction

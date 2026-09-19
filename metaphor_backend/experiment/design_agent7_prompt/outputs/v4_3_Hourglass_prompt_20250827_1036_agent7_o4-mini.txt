@@ -1,0 +1,24 @@
+Generate a metaphorical conceptual sketch (vector, non-photorealistic).
+
+Constraints:
+- Pure white background; no infographic‐style verbose callouts or axes
+- Minimal text and labels; abstract, clean hourglass outline
+- Preserve ~30% sketch completion; leave 70% open for designer refinement
+
+Heuristics:
+- Use an hourglass to frame time progressing
+- Show grains flowing downward, shrinking steadily to clarify decreasing lifespan
+- Emphasize vertical progression of years through position
+
+Content to render:
+Within a simple hourglass silhouette, depict a vertical stream of vector circles:
+  • remaining days → circle diameter  
+  • year → vertical position along the central flow  
+
+Layout hints:
+- Largest circles near the top chamber, shrinking toward the waist  
+- Center the hourglass with ample white space  
+- Separate top, waist, and bottom layers to reinforce depth  
+
+Style keywords: clean vector graphics, abstract minimalism, data visualization clarity, cinematic clarity, sketch.  
+Meta: no mapping reduction

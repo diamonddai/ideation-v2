@@ -1,0 +1,25 @@
+Generate a metaphorical conceptual sketch (vector, non-photorealistic).
+
+Constraints:
+- Pure white background; center the abstract hourglass silhouette.
+- No infographic-style verbose callouts or coordinate axes.
+- Minimal decorative detail; focus on metaphor structure and data relationships.
+- Use clean vector lines only; preserve ~30% conceptual sketch openness.
+
+Heuristics:
+- Shrinking sand clusters flow downward.
+- Descending arrangement signals passing years.
+- Clarifying the overall decreasing lifespan trend.
+
+Content to render:
+- remaining days → size of each sand cluster
+- year → vertical position within the hourglass flow
+
+Layout hints:
+- Stack clusters in a natural downward progression through the hourglass neck.
+- Keep ample white space around the hourglass; avoid element overlap.
+- Imply time sequence by vertical placement rather than axes.
+
+Style keywords: clean vector graphics, abstract minimalism, data visualization clarity, cinematic clarity, sketch.
+
+Meta: no mapping reduction

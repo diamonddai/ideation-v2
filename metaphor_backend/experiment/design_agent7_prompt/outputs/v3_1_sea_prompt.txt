@@ -1,0 +1,32 @@
+Generate a metaphorical conceptual sketch (vector, non-photorealistic).
+
+Constraints:
+- Metaphor subject: sea as the overarching structure; a flowing tide is the primary visual metaphor.
+- Completion level: concept sketch ~30% complete; clearly expresses the metaphor and data mappings without pixel-level detail.
+- Data mappings (one data field per channel, ≤4 channels total): 
+  - population → size (wave height encodes population magnitude)
+  - time → position (the tide’s progression along the shoreline encodes time sequence)
+- Channel discipline: do not introduce additional channels; maintain one-to-one mappings; total channels used stay within the limit.
+- Visual composition: establish clear foreground/midground/background; avoid element stacking that obscures readability.
+- Background: pure white; no decorative textures or complex backgrounds.
+- Style and detail: vector shapes with crisp edges; minimalistic geometry; no photorealism.
+- Color and typography: muted grey/blue-grey palette; limit color usage; text minimal or absent within the image (annotations kept to a separate section); no dense labels.
+- Layout guidance: no axes; favor natural metaphoric layout that supports reading flow and interpretation.
+- Theme alignment: emphasize a growing trend through a rising tide; the depiction should convey progression and clarity of trend without numeric rendering.
+
+Heuristics (subject and data fact in brief, using verbs):
+- rising tide to convey growth
+- advancing flow to express time progression
+- keep shapes simple and legible to emphasize trend
+
+Content to render:
+- population → size: In the sea metaphor, the wave height encodes population magnitude; larger height indicates a larger population.
+- time → position: The tide’s progression along the shoreline encodes time order, with earlier states toward the start and later states toward the end.
+
+1–3 natural layout hints:
+- A single flowing tide traverses the canvas in a natural reading path, with crest heights representing population magnitude and the tide’s progression encoding time.
+- Use distinct, layered wave shapes to imply foreground, middle ground, and background while keeping edges crisp and avoiding overlap that obscures the mapping.
+- Keep ample white space around the tide and ensure minimal annotation; let the metaphor carry the data story without clutter.
+
+Style keywords: clean vector graphics, abstract minimalism, data visualization clarity, cinematic clarity, sketch.
+Meta: no mapping reduction

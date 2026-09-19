@@ -1,0 +1,125 @@
+{
+    "success": true,
+    "image_url": "https://example.com/generated_image.jpg",
+    "image_prompt": "Use sea as a visual metaphor to portray growing involving population and time. Encode population with the wave crest (line) using the size channel; areas expand with larger values. Encode time with the tide line (line) using the position channel; values move farther along the axis. Keep a minimal composition with generous margins and a neutral background; emphasize clear metaphorical shapes and avoid text or axes. Flat infographic style with crisp edges and a restrained blue-grey palette; light shading only for legibility.",
+    "data_fact_caption": "该数据展示了过去十年城市人口的持续增长趋势",
+    "mapping": [
+      "position",
+      "size"
+    ],
+    "mapping_spec": {
+      "mapping_id": "map_9f5575b7",
+      "keyword": "sea",
+      "dataFact": "growing",
+      "contextDescription": "This data presents the continuous growth trend of the urban population over the past decade",
+      "defaultPlan": [
+        {
+          "dataField": "population",
+          "subitemId": "1",
+          "subitemName": "wave crest",
+          "channels": [
+            "size"
+          ]
+        },
+        {
+          "dataField": "time",
+          "subitemId": "2",
+          "subitemName": "tide line",
+          "channels": [
+            "position"
+          ]
+        }
+      ],
+      "field1": {
+        "dataField": "population",
+        "subitemOptions": [
+          {
+            "subitem_id": "1",
+            "name": "wave crest",
+            "geometry": "line"
+          },
+          {
+            "subitem_id": "2",
+            "name": "ocean floor",
+            "geometry": "area"
+          },
+          {
+            "subitem_id": "3",
+            "name": "current flow",
+            "geometry": "line"
+          },
+          {
+            "subitem_id": "4",
+            "name": "coral reef",
+            "geometry": "area"
+          },
+          {
+            "subitem_id": "5",
+            "name": "sea foam",
+            "geometry": "point"
+          }
+        ],
+        "channels": {
+          "allowed": [
+            "position",
+            "size",
+            "lightness",
+            "color",
+            "texture",
+            "orientation",
+            "shape"
+          ],
+          "default": [
+            "size"
+          ]
+        }
+      },
+      "field2": {
+        "dataField": "time",
+        "subitemOptions": [
+          {
+            "subitem_id": "2",
+            "name": "tide line",
+            "geometry": "line"
+          },
+          {
+            "subitem_id": "1",
+            "name": "wave crest",
+            "geometry": "line"
+          },
+          {
+            "subitem_id": "3",
+            "name": "current flow",
+            "geometry": "line"
+          },
+          {
+            "subitem_id": "4",
+            "name": "coral reef",
+            "geometry": "area"
+          },
+          {
+            "subitem_id": "5",
+            "name": "sea foam",
+            "geometry": "point"
+          }
+        ],
+        "channels": {
+          "allowed": [
+            "position",
+            "orientation",
+            "lightness",
+            "color",
+            "texture",
+            "size",
+            "shape"
+          ],
+          "default": [
+            "position"
+          ]
+        }
+      }
+    },
+    "source": "population",
+    "target": "sea",
+    "error": null
+  }

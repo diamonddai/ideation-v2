@@ -1,0 +1,34 @@
+Prompt1:
+
+Concept: Sunflower Time-Stream — a minimal, conceptual sketch that uses metaphor as structure to encode data trend (growing) from a time span.
+
+Scene description:
+- A clean, white background with no texture or backdrop elements.
+- A single, gentle S-curve flows horizontally across the canvas, serving as the time-thread. Along this curve sits a sequence of sunflowers anchored to the curve as if growing along time.
+- Each sunflower is a simple vector shape: a bold circular dark center, uniformly bright yellow petals, and a slender green stem. The petals vary in size along the curve, gradually enlarging from the left to the right to express the rising annual output.
+- The stems follow the curve’s direction and maintain a clear, uncluttered silhouette; there are no axes, ticks, grids, or extra decorative textures.
+- Depth is achieved through a subtle foreground-middle-background layering: foreground sunflowers on the curve, a light, unobtrusive mid-ground suggestion of stems or leaves, and a plain white background to preserve whitespace and readability.
+
+Composition and layering:
+- Foreground: the line of sunflowers aligned along the flowing curve.
+- Middle ground: faint, minimal hints of stems to reinforce depth without crowding the main metaphor.
+- Background: pure white to emphasize clean vector lines and open space.
+
+Color and style:
+- Palette: sunflowers with bright yellow petals, dark brown/black centers, and green stems/leaves; colors are flat with no shading or gradients.
+- Style anchors: clean vector graphics, abstract minimalism, sketch, balanced composition, subtle metaphorical elegance.
+- Rendering: non-photorealistic, no textures or photographic detail, no realistic lighting effects.
+
+Data-to-visual mapping (embedded, explicit):
+- Data field "annual output" → visual channel "petal size": as time progresses along the curve, petals become larger to indicate rising output (no numeric values, only relative growth).
+- Data field "time" → visual channel "position": time is encoded by the horizontal position along the S-curve (left-to-right progression), establishing the reading path without axes.
+- Data fact "growing" is expressed by the progressive enlargement of petal size along the curve, creating a clear rising trend.
+
+Notes for the designer (conceptual sketch, ~30% completion):
+- The arrangement should feel like a living timeline rather than a chart: metaphor as structure, data expressing trend, minimal decoration.
+- Avoid explicit numbers, gridlines, or axis-like elements.
+- Include a tiny, unobtrusive legend or caption near a corner that states: "Data mapping: annual output → petal size; time → position along curve" (kept readable but minimal to preserve whitespace).
+- Overall composition should be legible at a small scale and ready for extension by a designer (70% open space for refinement).
+
+Goal:
+- Produce a coherent, recognizable metaphorical structure that conveys the rising trend in Van Gogh’s output across the time span, using Sunflower petals as the sole quantitative visual channel and the curve as the temporal axis, while maintaining a restrained, schematic, 30%-complete look.

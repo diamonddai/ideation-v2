@@ -1,0 +1,7 @@
+Prompt for text-to-image generation:
+
+“Concept sketch (~30% complete) of an abstract hourglass drawn in clean vector line art on a white background. The hourglass outline is thin and minimal. Inside, a vertical stream of individual sand grains (simple circles) falls from the upper to the lower chamber.  
+– Data mapping embedded in the metaphor:  
+  • remaining days → circle diameter (larger circle = more days)  
+  • year → vertical position along the falling stream (higher = earlier year, lower = later year)  
+The circles decrease in size as they descend, and the pile in the lower chamber grows, illustrating shrinking human lifespan over time. Include two subtle text annotations integrated into the sketch: one next to a representative grain reading “remaining days → circle size,” another along the stream reading “year → vertical position.” No axes, ticks, gridlines, or decorative elements. Style: clean vector graphics, abstract minimalism, light sketch, balanced composition, subtle metaphorical elegance.”

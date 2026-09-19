@@ -1,0 +1,7 @@
+Conceptual vector line sketch (~30% complete) of an abstract sea on a pure white background, featuring a sequence of wave crests that increase in height from left to right to evoke a steadily rising trend. Thin, clean black strokes only—no axes, ticks, gridlines or decorative textures.
+
+Annotations (embedded within the sketch):
+- dataField “population” → wave crest height (size)
+- dataField “time” → wave crest horizontal position
+
+Style: minimal abstract, clear foreground structure, subtle metaphorical elegance, reserved for designer extension.

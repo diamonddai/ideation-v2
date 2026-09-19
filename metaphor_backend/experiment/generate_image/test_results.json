@@ -1,0 +1,61 @@
+[
+  {
+    "test_id": 6,
+    "source": "人口",
+    "target": "海洋",
+    "prompt": "Use 海洋 as a visual metaphor to portray 增长 involving 时间 and 人口. Encode 时间 with the 海洋波浪 (line) using the position channel; values move farther along the axis. Encode 人口 with the 海洋区域 (area, band) using the size channel; areas expand with larger values. Keep a minimal composition with generous margins and a neutral background; emphasize clear metaphorical shapes and avoid text or axes. Flat infographic style with crisp edges and a restrained blue-grey palette; light shading only for legibility.",
+    "local_path": "",
+    "oss_url": "",
+    "success": false,
+    "error": "图片下载失败",
+    "dalle_response": {
+      "created": 1754926341,
+      "data": [
+        {
+          "content_filter_results": {
+            "hate": {
+              "filtered": false,
+              "severity": "safe"
+            },
+            "self_harm": {
+              "filtered": false,
+              "severity": "safe"
+            },
+            "sexual": {
+              "filtered": false,
+              "severity": "safe"
+            },
+            "violence": {
+              "filtered": false,
+              "severity": "safe"
+            }
+          },
+          "prompt_filter_results": {
+            "hate": {
+              "filtered": false,
+              "severity": "safe"
+            },
+            "profanity": {
+              "detected": false,
+              "filtered": false
+            },
+            "self_harm": {
+              "filtered": false,
+              "severity": "safe"
+            },
+            "sexual": {
+              "filtered": false,
+              "severity": "safe"
+            },
+            "violence": {
+              "filtered": false,
+              "severity": "safe"
+            }
+          },
+          "revised_prompt": "A flat infographic-style artwork portraying the ocean as a visual metaphor for growth involving time and population. The design features neutral beige and blue-gray tones. Ocean waves are depicted with crisp, flat lines that progress farther along the axis to represent time, expanding in width for each wave to metaphorically encode population increase. There are generous margins surrounding the minimalist composition, with clear emphasized shapes. Light shading is applied for legibility. No text, axis, or labels are included.",
+          "url": "https://dalleproduse.blob.core.windows.net/private/images/c4570c11-cc7c-4cc0-9c6b-08a66efdc8d0/generated_00.png?se=2025-08-12T15%3A32%3A39Z&sig=ciHTJ9CluiVkgW9KzmfCS4wSianoHUaRtSY8TVJXFw0%3D&ske=2025-08-18T07%3A59%3A34Z&skoid=09ba021e-c417-441c-b203-c81e5dcd7b7f&sks=b&skt=2025-08-11T07%3A59%3A34Z&sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&skv=2020-10-02&sp=r&spr=https&sr=b&sv=2020-10-02"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,31 @@
+Prompt1:
+Create a conceptual sketch (approximately 30% complete) in clean vector style on a pure white background, using the sea as the overarching metaphor to encode a growing urban population trend over the past decade. Metaphor vehicle: sea as the structural carrier; data tenor: growing.
+
+Data-to-visual mapping (one-to-one):
+- Population -> Wave Crest Size: the height/size of successive wave crests increases, representing rising population.
+- Time -> Tide Line Position: a flowing tidal line moves along the sea to indicate chronological progression, with its position shifting as time advances.
+
+Scene composition:
+- A minimal, abstract sea scene with a shoreline or open-water segment.
+- A sequence of stylized waves, drawn with simple vector lines, arranged left to right to convey time progression without axes or gridlines.
+- Wave crests grow taller from left to right to express the growing trend.
+- A single curving tide line (the “tide line”) travels across the water, its forward position signaling later time; keep this line soft and unobtrusive.
+- Foreground, middle, and background layers should be clearly separated to avoid crowding or occlusion; no dense textures or photographic realism.
+- No axes, ticks, gridlines, or numerical labels. No heavy decorations; emphasis on the metaphor and relative relationships.
+
+Style and aesthetics:
+- Vector graphics, abstract minimalism, sketchy but deliberate lines.
+- Balanced composition with ample white space; edge clarity with crisp vector outlines.
+- Color palette: cool blue tones on white background; minimal shading or gradient just enough to distinguish depth, but keep it understated.
+- Textual labels should be minimized or omitted; if included, keep annotations subtle and non-intrusive.
+
+Annotations for designers (embedded in the metaphor body):
+- Population -> Wave Crest Size (growth)
+- Time -> Tide Line Position (chronology)
+
+Context alignment:
+- The visual conveys the continuous growth trend of urban population over the past decade through increasing crest sizes along a time-encoded tide line, without depicting exact values.
+
+Notes:
+- Do not render any numbers, axes, gridlines, or realistic textures.
+- The composition should feel like a deliberate, readable sketch that clearly communicates relative growth and temporal progression through the sea metaphor, leaving room for refined detailing in later iterations.

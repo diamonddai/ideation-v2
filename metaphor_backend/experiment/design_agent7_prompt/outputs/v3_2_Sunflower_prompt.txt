@@ -1,0 +1,31 @@
+Generate a metaphorical conceptual sketch (vector, non-photorealistic).
+
+Constraints:
+- Output is a conceptual line sketch at ~30% completion; preserve a clear metaphor structure and the 1:1 data-to-visual mapping, not pixel-perfect detail.
+- Do not render exact numbers; emphasize relative relationships and overall trend (growing).
+- One data field per visual channel, up to 4 channels total; for this prompt use 2 channels: Petal size (annual output) and Radial position (time).
+- Metaphor as structure: Sunflower as the encoding vehicle; the data is expressed through its geometry, not as axes or charts.
+- Clear foreground/midground/background separation; avoid element overlap that obscures the metaphor; use simple vector shapes with crisp edges.
+- Background must be pure white; no textures or decorative background elements.
+- Color palette: muted gray low-saturation; avoid introducing extra hues unless they encode a channel (not the case here).
+- Style anchors: clean vector graphics, abstract minimalism, data visualization clarity, cinematic clarity, sketch.
+
+Heuristics (verbs reflecting subject and data fact):
+- growing, progressing, clarifying
+- unfolding around a central reference
+- reading path flows from center outward
+- Sunflower metaphor anchors the shell of the data
+
+Content to render:
+- Metaphor subject: Sunflower as the overall data-structure, with a minimal central disk and surrounding petals.
+- annual output → petal size: Each petal’s size encodes the annual output; larger petals indicate higher output.
+- time → position: The petals are arranged around the center in a radial sequence that encodes time; earlier years are near the center, later years extend outward.
+- Context: Inspired by Van Gogh’s sunflower series, translated into a conceptual, non-photorealistic vector sketch on a white field.
+
+Natural layout hints:
+- Hint 1: Use a radial arrangement where time progresses from center outward; ensure there is a clear reading path without axes.
+- Hint 2: Keep elements non-overlapping or only lightly touching; use crisp, clean outlines to reinforce the symbolic structure.
+- Hint 3: Maintain a restrained grayscale palette; no background textures; use variations in line weight to imply depth without color coding.
+
+Style keywords: clean vector graphics, abstract minimalism, data visualization clarity, cinematic clarity, sketch.
+Meta: no mapping reduction

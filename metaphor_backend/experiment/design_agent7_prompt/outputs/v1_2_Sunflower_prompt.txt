@@ -1,0 +1,26 @@
+Generate a metaphorical infographic-style vector illustration.
+
+Constraints (must follow):
+- Focus on data understanding first, metaphor second, decoration last.
+- Simplify into clean vector-like graphics, abstract not photorealistic.
+- Limit to 3–4 meaningful visual dimensions.
+- Remove decorative backgrounds; keep negative space.
+- Each data mapping corresponds to exactly one visual channel.
+- Visual weight allocation: ~70% data, ~20% metaphor, ~10% decoration.
+- Clear foreground–midground–background hierarchy.
+- Minimal, harmonious color palette; minimal annotations, no text clutter.
+
+Heuristics (apply explicitly):
+- Decide the central subject from Sunflower, then choose a presentation mode (prefer infographic).
+- Describe growing using dynamic visual changes: progressing, clarifying.
+- Convert each defaultPlan item into natural-language visual annotations clarifying the mapping.
+- End with stable style anchors for consistency.
+
+Content to render:
+Central metaphor: Sunflower, representing This data presents the output of Van Gogh's works from 1879 to 1889, with the highest in 1888 and the lowest in 1879.
+Visual trend: express growing using progressing, clarifying.
+Data mappings (rewrite into visual annotations):
+- annual output → size: marked using simple geometric forms tied to the Sunflower metaphor, encoded via the size channel.
+- time → position: marked using simple geometric forms tied to the Sunflower metaphor, encoded via the position channel.
+
+Style keywords: infographic, metaphorical illustration, clean vector graphics, abstract minimalism, data visualization clarity, cinematic clarity.

@@ -1,0 +1,20 @@
+Prompt1:
+
+Create a concept sketch in a clean vector style (abstract minimalism) that uses Sunflower as the metaphor vehicle to encode a data trend. Context: Van Gogh’s output across 1879–1889 with a peak around 1888 and a low in 1879, and the data fact that the trend is growing. Visual mapping is strictly one-to-one: data field “annual output” maps to petal count (size) of each sunflower; data field “time” maps to stem height/position along the composition. The scene should convey a rising trend, not precise numbers.
+
+Composition and metaphor structure:
+- A sequence of sunflowers arranged along a gentle, flowing arc from left to right to represent the passage of years (earlier years on the left, later years on the right). Time is encoded by the position along the arc (stem height/vertical placement along the curve).
+- Petal count (size) increases along the sequence to indicate rising annual output; later sunflowers have larger petals, reflecting growth and culminating near the late-1880s.
+- No axes, ticks, gridlines, or numerical labels. If alignment cues are used, keep them extremely subtle (barely perceptible alignment aids) and never form a grid or axis.
+
+Visual details:
+- Style: vector, crisp lines; flat fills; minimal shading.
+- Layers: clear foreground, middle ground, and background with ample white space and no textured backgrounds.
+- Colors: sunflowers with bright yellow petals and dark centers; stems in muted green. Palette restrained and uniform to emphasize abstraction.
+- Layout: each sunflower is a standalone glyph; no overlapping elements; spacing supports legibility of the data mapping.
+- Text: minimal caption only, tiny and unobtrusive, integrated near the composition to state the mapping in natural language: “annual output → petal count (size); time → stem height/position.” No prominent labeling elsewhere.
+
+Target feel and constraints:
+- The design should read as a conceptual, approximate 30% complete sketch—ready for a designer to extend—maintaining the explicit metaphor structure and data-relations while avoiding realism, texture, or photographic cues.
+- The background is pure white; no decorative textures or background imagery.
+- Ensure the metaphor carries all data relationships clearly: one data dimension to one visual channel, with time presented through position and growth shown through petal size, emphasizing the overall rising trend without showing exact values.

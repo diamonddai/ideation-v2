@@ -1,0 +1,20 @@
+Concept sketch prompt (v5 compliant): Use a sea metaphor as the overall structure to encode the data tenor of a growing urban population trend. Visual mapping is explicit and one-to-one: data field population maps to crest height (size) of each wave; data field time maps to crest position along a curved shoreline (horizontal progression). The scene should communicate a continuous growth trend over the past decade without rendering any numbers.
+
+Design instructions:
+- Style: clean vector graphics, abstract minimalism, sketch-like line work, balanced composition, subtle metaphorical elegance.
+- Background: pure white, no textures or photographic realism.
+- Composition: establish foreground/middle/background layers with a clear shoreline as the architectural backbone; a sequence of wave crests along the shore, left to right, indicating time progression.
+- Data mapping in the visuals:
+  - Population → crest height: each successive wave crest is taller than the previous, conveying growth.
+  - Time → crest position along the shoreline: crests are arranged from earlier (left) to later (right) along the shore.
+- Visual constraints: no axes, no ticks, no gridlines; avoid chart-like appearances. If alignment cues are used, they must be extremely subtle (very faint and non-grid-like).
+- Color: restrained blue palette; primarily line art in blue with minimal/or no fill; no heavy shading.
+- Foreground / middle / background: maintain a clear hierarchy without element overlap that obscures interpretation; preserve whitespace to enhance readability and depth.
+- Annotations: include a brief, unobtrusive mapping note within the metaphor body: “Data mapping: population → crest height (size); time → crest position along shoreline.” Optional tiny labels near the corresponding elements can be included but should not clutter the sketch; avoid large explanatory text near the main composition.
+- 30% completion target: deliver a concept-level sketch with recognizable metaphor structure and data relationships, but without pixel-level detail or precise rendering—designers should have 70% freedom to extend.
+
+Context reminder:
+- Keyword: sea
+- Data fact to convey: growing
+- Context: urban population growth trend over the past decade
+- Default plan (mapped channels): population → size (wave crest height); time → position (tide-line along shoreline)
